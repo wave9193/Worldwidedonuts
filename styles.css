@@ -1,0 +1,69 @@
+
+
+.logo-small {
+	width: 500px;
+	height: 500px;
+}
+
+.new-logo {
+	width: 150px;
+	height: 150px;
+	padding: 1rem 1rem;
+}
+
+.bg-primary {
+	background-color: rgba(255, 158, 52, 0.7) !important;
+}
+
+.h1-big {
+	font-size: 2.0em;
+}
+
+.h3-big {
+	font-size: 2.2rem;
+	color: ;
+}
+
+
+.wwd-statement {
+	font-size: 5rem;
+	color: ;
+}
+
+.card-description, .description, .footer-big p {
+	font-size: 1.3em;
+    line-height: 1.3em;
+    margin-bottom: 15px;
+    color: #373434;
+}
+
+.main {
+	background-color: #eebf75;
+}
+
+.section {
+	background-color: #eebf75;
+}
+
+.square-highlight {
+	color: #eb1f1f;
+	font-weight: bold;
+	font-size: 1.3em;
+	border-width: 4px;
+}
+
+.btn-xl {
+	background-color: #F05F44;
+  	border-color: #F05F44;
+  	--bs-btn-hover-bg: #ee4b08;
+  	--bs-btn-hover-border-color: #ee4b08;
+  	--bs-btn-hover-border-width: 4px;
+  	padding: 1rem 1rem;
+  	border-radius: 50px;
+  	margin: 5px;
+  	padding: 25px 75px;
+  	font-size: 1.5em;
+}
+
+.buffer {
+  height: 7rem;
